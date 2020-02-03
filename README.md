@@ -1,4 +1,6 @@
-Editor: Juha Luukkonen
+## Editor: Juha Luukkonen
+
+## Deployed soon: https://juhanphotogallery.herokuapp.com/
 
 # React Photo Gallery
 
