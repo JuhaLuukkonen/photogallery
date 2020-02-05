@@ -4,6 +4,12 @@
 
 # React Photo Gallery
 
+________________________________________________________________________________________________________________________________________
+
+Other resource:
+
+"
+
 [![Join the chat at https://gitter.im/react-photo-gallery/Lobby](https://badges.gitter.im/react-photo-gallery/Lobby.svg)](https://gitter.im/react-photo-gallery/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://badge.fury.io/js/react-photo-gallery.svg)](https://badge.fury.io/js/react-photo-gallery)
 ![npm downloads](https://img.shields.io/npm/dt/react-photo-gallery.svg)
@@ -88,3 +94,5 @@ Goes through each column looking for the best place to insert the next photo by 
 ## Thanks
 
 Special thanks to [Christopher Chedeau](https://blog.vjeux.com/) for [writing about this interesting algorithm](http://blog.vjeux.com/2014/image/google-plus-layout-find-best-breaks.html) and whos code served as a starting off point.
+
+"
